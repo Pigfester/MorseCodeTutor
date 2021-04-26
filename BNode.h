@@ -1,8 +1,8 @@
 /***********************************************************************
 * Module:
 *    BNode
-* Author:
-*    Sam, John, and Nathan
+* Authors:
+*    Sam, John, and Nathan (BYU-I students)
 * Summary:
 *    This class implements a single BNode data structure.
 ************************************************************************/
