@@ -61,7 +61,7 @@ int main() {
          break;
       }
 
-      cout << "Your input:\t " << keyPresses << endl;
+      cout << "\nYour input:\t " << keyPresses << endl;
       translate(keyPresses);
    }
 }
